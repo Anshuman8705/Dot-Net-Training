@@ -1,0 +1,90 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    table {
+        width: 70%;
+        margin: 20px auto;
+        border-collapse: collapse;
+    }
+
+    th {
+        background-color: #007bff;
+        color: white;
+        padding: 12px;
+    }
+
+    td {
+        padding: 10px;
+        text-align: center;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Students Portal</h1>
+    
+</div>
+<div>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Age
+            </th>
+            <th>
+                Course
+            </th>
+            <th>
+                Gender
+            </th>
+            <th>
+                Fees
+            </th>
+            <th>
+                Qualification
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.Age
+                </td>
+                <td>
+                    @item.Course
+                </td>
+                <td>
+                    @item.Gender
+                </td>
+                <td>
+                    @item.Fees
+                </td>
+                <td>
+                    @item.Qualification
+                </td>
+            </tr>
+        }
+    </table>
+</div>

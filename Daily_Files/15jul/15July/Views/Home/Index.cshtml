@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome Anshuman </h1>
+    <p>Learning about ASP.NET this is my first web application  </p>
+</div>
+<div>
+    <h3> This is new Heading </h3>
+</div>
+@{
+    string name = "Anshuman";
+}
+<h2> Welcome @name</h2>
+
+<p> today date and time </p>
+<h3> @DateTime.Now</h3>
+
+
+
+@{
+    int age = 20;
+}
+
+@if (age >= 18)
+{
+    <h2>You can vote.</h2>
+}
+else
+{
+    <h2>You cannot vote.</h2>
+}
