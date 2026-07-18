@@ -1,0 +1,14 @@
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\bin\Debug\net10.0\Assignment_9jul.exe
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\bin\Debug\net10.0\Assignment_9jul.deps.json
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\bin\Debug\net10.0\Assignment_9jul.runtimeconfig.json
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\bin\Debug\net10.0\Assignment_9jul.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\bin\Debug\net10.0\Assignment_9jul.pdb
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.AssemblyInfoInputs.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.AssemblyInfo.cs
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.csproj.CoreCompileInputs.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\refint\Assignment_9jul.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.pdb
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\Assignment_9jul.genruntimeconfig.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dotnet Practice\Assignment\Assignment_9jul\obj\Debug\net10.0\ref\Assignment_9jul.dll
