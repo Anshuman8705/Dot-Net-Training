@@ -6,7 +6,6 @@ public class RegularStudent : Student
         : base(id, name, department)
     {
     }
-
     public override double CalculateFee()
     {
         // regular students pay the full per-credit rate
