@@ -17,7 +17,7 @@ class Program
         // Genericse<double> n2 = new Genericse<double>();
         // n2.Print(100.25);
 
-        string empName = "kartik";
+        string empName = "Anshu";
         Console.WriteLine(empName.ProperCase());
 
         // while (true)
