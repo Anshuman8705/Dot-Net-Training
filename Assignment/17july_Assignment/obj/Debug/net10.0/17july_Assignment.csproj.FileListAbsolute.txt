@@ -1,0 +1,15 @@
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\bin\Debug\net10.0\17july_Assignment.exe
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\bin\Debug\net10.0\17july_Assignment.deps.json
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\bin\Debug\net10.0\17july_Assignment.runtimeconfig.json
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\bin\Debug\net10.0\17july_Assignment.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\bin\Debug\net10.0\17july_Assignment.pdb
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.AssemblyInfoInputs.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.AssemblyInfo.cs
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.sourcelink.json
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\refint\17july_Assignment.dll
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.pdb
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\17july_Assignment.genruntimeconfig.cache
+C:\Users\Anshuman\OneDrive\Desktop\Dot-Net-Training\Assignment\17july_Assignment\obj\Debug\net10.0\ref\17july_Assignment.dll
