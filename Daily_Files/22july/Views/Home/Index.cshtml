@@ -1,0 +1,43 @@
+﻿@model _22july.Models.Product
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<form asp-controller="Home" asp-action="Index" method="post">
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Stock"></label>
+        <input asp-for="Stock" class="form-control" />
+        <span asp-validation-for="Stock" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>

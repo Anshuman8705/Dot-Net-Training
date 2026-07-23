@@ -1,0 +1,58 @@
+﻿@model _21july.Models.Student
+
+<div class="text-center">
+    <h3 class="display-4">Student Admission Form</h3>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <table>
+        <tr>
+            <td>Name :</td>
+            <td>
+                @Html.TextBoxFor(m => m.Name)
+                @Html.ValidationMessageFor(m => m.Name)
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age :</td>
+            <td>
+                @Html.TextBoxFor(m => m.Age)
+                @Html.ValidationMessageFor(m => m.Age)
+            </td>
+        </tr>
+
+        <tr>
+            <td>Email ID :</td>
+            <td>
+                @Html.TextBoxFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Email)
+            </td>
+        </tr>
+
+        <tr>
+            <td>Course :</td>
+            <td>
+                @Html.TextBoxFor(m => m.Course)
+                @Html.ValidationMessageFor(m => m.Course)
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Register" />
+            </td>
+        </tr>
+    </table>
+
+    @if (ViewBag.Message != null)
+    {
+        <h3 style="color:green">
+            @ViewBag.Message
+        </h3>
+    }
+}

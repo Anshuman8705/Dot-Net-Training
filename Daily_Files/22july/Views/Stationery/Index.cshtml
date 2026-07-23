@@ -1,0 +1,64 @@
+﻿@model _22july.Models.Stationery
+
+@{
+    ViewData["Title"] = "Stationery Form";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Stationery Management</h1>
+</div>
+
+<form asp-controller="Stationery" asp-action="Index" method="post">
+
+    <div class="mb-3">
+        <label asp-for="ItemName"></label>
+        <input asp-for="ItemName" class="form-control" />
+        <span asp-validation-for="ItemName" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div class="mb-3">
+        <label asp-for="Brand"></label>
+        <input asp-for="Brand" class="form-control" />
+        <span asp-validation-for="Brand" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div class="mb-3">
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div class="mb-3">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <div class="mb-3">
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+
+</form>
+
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
