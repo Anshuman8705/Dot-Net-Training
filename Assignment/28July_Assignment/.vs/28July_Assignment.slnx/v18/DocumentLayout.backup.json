@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\models\\updatedurationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:models\\updatedurationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|c:\\users\\anshuman\\onedrive\\desktop\\dot-net-training\\assignment\\28july_assignment\\28july_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4850DAA-EA3E-4AE7-AFB8-663FBB403A72}|28July_Assignment.csproj|solutionrelative:28july_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:37:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:37:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:36:14.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Services\\ICourseService.cs",
+              "RelativeToolTip": "Services\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:35:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDurationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Models\\UpdateDurationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateDurationRequest.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Models\\UpdateDurationRequest.cs",
+              "RelativeToolTip": "Models\\UpdateDurationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:34:36.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:33:35.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "28July_Assignment",
+              "DocumentMoniker": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\28July_Assignment.csproj",
+              "RelativeDocumentMoniker": "28July_Assignment.csproj",
+              "ToolTip": "C:\\Users\\Anshuman\\OneDrive\\Desktop\\Dot-Net-Training\\Assignment\\28July_Assignment\\28July_Assignment.csproj*",
+              "RelativeToolTip": "28July_Assignment.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-28T16:26:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
